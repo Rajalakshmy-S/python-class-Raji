@@ -7,5 +7,5 @@ class person:
         self.name=name
 a=person('Mike')
 a.printName()
-a.changeName('Paul')
+a.changeName('Raji')
 a.printName()
